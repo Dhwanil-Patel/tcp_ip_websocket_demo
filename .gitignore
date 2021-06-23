@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+#.gitignore
+/src/main/resources/git.properties
+/src/main/resources/apns/drivers_certificate_production.p12
+/target/
+/catalina.home_IS_UNDEFINED/
+/prescribers.iml
+/prescribers.ipr
+/prescribers.iws
+/.shelf/
+/.ideaDataSources/
+*.iml
+/src/main/front/dist/
+/src/main/resources/application-alpha.yml
+.classpath
+.project
+.settings/
+bin/
+/.idea/
+Icon
